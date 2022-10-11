@@ -3,7 +3,7 @@
 # Dataset Information
 Both the red and white varieties of the Portuguese "Vinho Verde" wine are the subject of the two datasets.These datasets can be thought of as regression or classification tasks.The classes are not balanced and ordered (for instance, there are more average wines than excellent or poor ones).The few excellent or poor wines can be identified using outlier detection algorithms.Additionally, we are unsure as to the relevance of each input variable.Test methods for feature selection could therefore be interesting.Few values were removed at random from two datasets before they were combined.
 
-### Attribute Information:
+## Attribute Information:
 Input variables (based on physicochemical tests): \
 1 - fixed acidity \
 2 - volatile acidity \
